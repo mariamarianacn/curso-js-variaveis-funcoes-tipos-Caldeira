@@ -7,7 +7,7 @@
  const numeroFavorito = 5;
 
  const numeroPrimeiro = 3;
- const numeroSegundo = 6;
+ const numeroSegundo = 5;
 
  const somaValores = numeroPrimeiro + numeroSegundo;
 

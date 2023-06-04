@@ -11,8 +11,8 @@ console.log(texto2 + number1); //o JS não vai converter string para number, res
 const check = '\u2705'
 console.log(check);
 
-const cidade = "recife";
-const input = "Recife";
+const cidade = "recifee";
+const input = "Recifee";
 
 const inputMinusculo = input.toLocaleLowerCase();
 
