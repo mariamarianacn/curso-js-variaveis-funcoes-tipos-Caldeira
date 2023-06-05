@@ -21,8 +21,8 @@ const denominador = 0;
 
 console.log(numerador/denominador); //infinity no node
 
-// console.log: 
 
+// console.log: 
 
 
 /*MEXENDO NO TERMINAL

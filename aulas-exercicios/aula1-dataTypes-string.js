@@ -14,7 +14,7 @@ console.log(check);
 const cidade = "recifee";
 const input = "Recifee";
 
-const inputMinusculo = input.toLocaleLowerCase();
+const inputMinusculo = input.toLowerCase();
 
 console.log(cidade === inputMinusculo) // true
 console.log(cidade === input) // false
