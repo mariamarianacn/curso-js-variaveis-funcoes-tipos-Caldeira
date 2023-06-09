@@ -19,7 +19,7 @@ const somaValoresFlutuantes = numeroTerceiro / numeroQuarto;
 const numerador = 10;
 const denominador = 0;
 
-console.log(numerador/denominador); //infinity no node
+console.log(denominador/numerador); //infinity no node
 
 
 // console.log: 
